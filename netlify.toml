@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "/pageisgoner.html"
+  status = 404
+  force = true
