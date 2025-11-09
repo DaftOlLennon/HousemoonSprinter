@@ -1,0 +1,148 @@
+/* These files define the sizes of the files on your site, this file is for a specific resolution (1600x900) the media min and max width should be the actual size of the window, this can be found by using scaleme.html in the "testing" folder, and also you make a test file with your average object at thier intended heights as one flash file, so you can scale until it fits in the margins. */
+#toonsize-full {
+	width: 963px;
+	height: 735px;
+}
+#toonsize-noannouncement {
+	width: 963px;
+	height: 735px;
+}
+/* navbar and announcements sizes */
+#announcementsize {
+	width: 963px;
+	height: 0px;
+}
+#navsize-normal {
+	width: 963px;
+	height: 35px;
+}
+#announcementsize-bubbles {
+	width: 747px;
+	height: 0px;
+}
+#navsize-bubbles {
+	width: 747px;
+	height: 35px;
+}
+#announcementsize-tetris {
+	width: 687px;
+	height: 0px;
+}
+#navsize-tetris {
+	width: 687px;
+	height: 35px;
+}
+/* most content sizes */
+#toonsize-normal {
+	width: 963px;
+	height: 700px;
+}
+#toonsize-teaserguide {
+	width: 1138px;
+	height: 700px;
+}
+#toonsize-wide {
+	width: 1244px;
+	height: 700px;
+}
+#toonsize-bubbles {
+	width: 747px;
+	height: 700px;
+}
+#toonsize-chromeerror {
+	width: 1584px;
+	height: 629px;
+}
+#toonsize-houseflix {
+	width: 1456px;
+	height: 700px;
+}
+#toonsize-mx2004toon {
+	width: 1120px;
+	height: 700px;
+}
+#toonsize-tetris {
+	width: 703px;
+	height: 700px;
+}
+#toonsize-toontastic {
+	width: 932px;
+	height: 700px;
+}
+/* 4th wall sizes */
+#toonsize-4thwall {
+	width: 1584px;
+	height: 673px;
+}
+#navsize-4thwall, #announcementsize-4thwall {
+	width: 963px;
+	height: 0px;
+}
+/* hsgb sizes (there's too many) */
+#toonsize-hsgb {
+    position: absolute;
+    width: 779px;
+	height: 700px; 
+    touch-action: none;
+}
+#toonsize-hsgb-border {
+	width: 779px;
+	height: 700px;
+	position:absolute;
+	z-index:2;
+}
+#toonsize-hsgb-homemenu {
+	width: 779px;
+	height: 700px;
+    z-index: 3;
+	opacity: 0;
+}
+#toonsize-hsgb-homemenu:hover {
+	width: 779px;
+	height: 700px;
+    z-index: 3;
+	opacity: 1;
+}
+#navsize-hsgb {
+	width: 779px;
+	height: 16px; 
+}
+#announcementsize-hsgb {
+	width: 779px;
+	height: 8px; 
+}
+/* popup sizes */
+#popupsize-normal {
+	width: 680px;
+	height: 483px;
+}
+#popupsize-clock {
+	width: 483px;
+	height: 483px;
+}
+#popupsize-noclose, #wallpaper-picture {
+	width: 731px;
+	height: 519px;
+}
+/* no flash stuff */
+#noflash-picture {
+	width: 963px;
+	height: 700px;
+}
+#navbar-picture {
+	width: 963px;
+	height: 20px;
+}
+#announcement-picture {
+	width: 963px;
+	height: 700px;
+}
+.ruffle-button, .flash-button {
+	height: 90px;
+}
+.ruffle-description, .flash-description, .top-description {
+	font-size: 10px;
+}
+.top-title, .back-button {
+	font-size: 24px;
+}

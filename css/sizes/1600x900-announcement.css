@@ -1,0 +1,135 @@
+/* These files define the sizes of the files on your site, this file is for a specific resolution (1600x900) the media min and max width should be the actual size of the window, this can be found by using scaleme.html in the "testing" folder, and also you make a test file with your average object at thier intended heights as one flash file, so you can scale until it fits in the margins. */
+#toonsize-full {
+	width: 941px;
+	height: 735px;
+}
+#toonsize-noannouncement {
+	width: 963px;
+	height: 735px;
+}
+/* navbar and announcements sizes */
+#announcementsize {
+	width: 941px;
+	height: 17px;
+}
+#navsize-normal {
+	width: 941px;
+	height: 34px;
+}
+#announcementsize-bubbles {
+	width: 730px;
+	height: 17px;
+}
+#navsize-bubbles {
+	width: 730px;
+	height: 34px;
+}
+#announcementsize-tetris {
+	width: 687px;
+	height: 17px;
+}
+#navsize-tetris {
+	width: 687px;
+	height: 34px;
+}
+/* most content sizes */
+#toonsize-normal {
+	width: 941px;
+	height: 684px;
+}
+#toonsize-teaserguide {
+	width: 1112px;
+	height: 684px;
+}
+#toonsize-wide {
+	width: 1216px;
+	height: 684px;
+}
+#toonsize-bubbles {
+	width: 730px;
+	height: 684px;
+}
+#toonsize-chromeerror {
+	width: 1724px;
+	height: 629px;
+}
+#toonsize-houseflix {
+	width: 1423px;
+	height: 684px;
+}
+#toonsize-mx2004toon {
+	width: 1094px;
+	height: 684px;
+}
+#toonsize-tetris {
+	width: 687px;
+	height: 684px;
+}
+#toonsize-toontastic {
+	width: 911px;
+	height: 684px;
+}
+/* 4th wall sizes */
+#toonsize-4thwall {
+	width: 1584px;
+	height: 673px;
+}
+#navsize-4thwall, #announcementsize-4thwall {
+	width: 963px;
+	height: 0px;
+}
+/* hsgb sizes (there's too many) */
+#toonsize-hsgb {
+    position: absolute;
+    width: 761px;
+	height: 684px; 
+    touch-action: none;
+}
+#toonsize-hsgb-border {
+	width: 761px;
+	height: 684px;
+	position:absolute;
+	z-index:2;
+}
+#toonsize-hsgb-homemenu {
+	width: 761px;
+	height: 684px;
+    z-index: 3;
+	opacity: 0;
+}
+#toonsize-hsgb-homemenu:hover {
+	width: 761px;
+	height: 684px;
+    z-index: 3;
+	opacity: 1;
+}
+#navsize-hsgb {
+	width: 761px;
+	height: 16px; 
+}
+#announcementsize-hsgb {
+	width: 761px;
+	height: 8px; 
+}
+/* no flash stuff */
+#noflash-picture {
+	width: 941px;
+	height: 684px;
+}
+#navbar-picture {
+	width: 941px;
+	height: 20px;
+}
+#announcement-picture {
+	width: 941px;
+	height: 684px;
+}
+.ruffle-button, .flash-button {
+	height: 90px;
+}
+.ruffle-description, .flash-description, .top-description {
+	font-size: 10px;
+}
+.top-title, .back-button {
+	font-size: 24px;
+}

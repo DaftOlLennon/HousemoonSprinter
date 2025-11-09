@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* FCDBNY Page */
+#sitebody {
+  background-image: url('/fcdbny/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+div {
+	position:relative;
+}
+#outline {
+	width:100%;
+	height:100%;
+	position:absolute;
+	z-index:3;
+	top:0;
+	left:0;
+	
+}
+#right-shade {
+	height:100%;
+	position:absolute;
+	z-index:2;
+	top:0;
+	right:0;
+}
+#left-shade {
+	height:100%;
+	position:absolute;
+	z-index:2;
+	top:0;
+	left:0;
+}
+#title-background {
+	width:100%;
+	height:100%;
+	position:absolute;
+	z-index:1;
+	top:0;
+	left:0;
+}
+#title-text {
+	z-index:4;
+	text-align:center;
+	padding:29px;
+	font-family:Arial;
+	font-size:40px;
+	font-weight:600;
+	color:#FFF;
+}
+#normal-text {
+	text-align:center;
+	font-family:Arial;
+	font-size:30px;
+	font-weight:600;
+	color:#FFF;
+}
+button {
+  background: transparent;
+  border: none;
+  text-align:center;
+  font-family:Arial;
+  font-size:30px;
+  font-weight:600;
+  color:#CCC;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a:active {
+	color: #FFF;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #CCC;
+	text-decoration: none;
+}
+#bloop {
+	display: none;
+}
+.show-dan{
+	-webkit-animation:showToastyGuy 1s;
+	   -moz-animation:showToastyGuy 1s;
+	     -o-animation:showToastyGuy 1s;
+	        animation:showToastyGuy 1s;
+}
+
+@-webkit-keyframes showToastyGuy 
+{
+	0% {right: -400px;}
+	40% {right: 0;}
+	60% {right: 0;}
+	100% {right: -400px;}
+}
+
+@-moz-keyframes showToastyGuy 
+{
+	0% {right: -400px;}
+	40% {right: 0;}
+	60% {right: 0;}
+	100% {right: -400px;}
+}
+
+@-o-keyframes showToastyGuy 
+{
+	0% {right: -400px;}
+	40% {right: 0;}
+	60% {right: 0;}
+	100% {right: -400px;}
+}
+
+@keyframes showToastyGuy 
+{
+	0% {right: -400px;}
+	40% {right: 0;}
+	60% {right: 0;}
+	100% {right: -400px;}
+}
