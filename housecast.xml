@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Housemoon Sprinter Housecast</title>
+<description>Housemoon Sprinter cartoons, on the go!</description>
+<itunes:image href="https://housecast.housemoonsprinter.co.uk/housecast-picture.png"/>
+<language>en-gb</language>
+<itunes:category text="Comedy"></itunes:category>
+<itunes:category text="Leisure">
+  <itunes:category text="Animation &amp; Manga"/>
+  </itunes:category>
+<itunes:author>Housemoon Sprinter Productions Ltd.</itunes:author>
+<link>https://housecast.housemoonsprinter.co.uk/</link>
+<itunes:owner>
+  <itunes:name>Roan Hemmings</itunes:name>
+  <itunes:email>rorohemmings@aol.com</itunes:email>
+</itunes:owner>
+<itunes:type>episodic</itunes:type>
+<copyright>Copyright 2018-2022 Housemoon Sprinter Productions Ltd. All Rights Reserved.</copyright>
+<item>
+<title>Third Outro</title>
+<enclosure url="https://housecast.housemoonsprinter.co.uk/episodes/bonus-thirdoutro.mp4" length="3510000" type="video/mp4"/>
+<pubDate>Wed, 17 Aug 2022 22:00:00 GMT</pubDate>
+<description>Housemoon supplements Weak Good's lack of emailage, by telling the story of his first email.</description>
+<itunes:duration>72</itunes:duration>
+<link>https://housecast.housemoonsprinter.co.uk/</link>
+<itunes:episodeType>bonus</itunes:episodeType>
+<itunes:explicit>true</itunes:explicit>
+</item>
+<item>
+<title>WGEmail: memories</title>
+<enclosure url="https://housecast.housemoonsprinter.co.uk/episodes/wgemail7-housecast.mp4" length="12500000" type="video/mp4"/>
+<pubDate>Wed, 17 Aug 2022 22:00:00 GMT</pubDate>
+<description>Housemoon supplements Weak Good's lack of emailage, by telling the story of his first email.</description>
+<itunes:duration>232</itunes:duration>
+<link>https://housecast.housemoonsprinter.co.uk/</link>
+<itunes:episode>5</itunes:episode>
+<itunes:season>5</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>true</itunes:explicit>
+</item>
+<item>
+<title>Housecleaning with Housemoon</title>
+<enclosure url="https://housecast.housemoonsprinter.co.uk/episodes/housecleaning-housecast.mp4" length="26000000" type="video/mp4"/>
+<pubDate>Wed, 17 Aug 2022 22:00:00 GMT</pubDate>
+<description>Housemoon accidentally spills Weak Good's urn, so Housemoon frantically cleans up his mistake!</description>
+<itunes:duration>339</itunes:duration>
+<link>https://housecast.housemoonsprinter.co.uk/</link>
+<itunes:episode>5</itunes:episode>
+<itunes:season>5</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>true</itunes:explicit>
+</item>
+<item>
+<title>Back Again</title>
+<enclosure url="https://housecast.housemoonsprinter.co.uk/episodes/backagain-housecast.mp4" length="12400000" type="video/mp4"/>
+<pubDate>Mon, 03 Jan 2022 13:00:00 GMT</pubDate>
+<description>Housemoon wakes up and hosts his usual New Years Special, but the gang have had enough...</description>
+<itunes:duration>188</itunes:duration>
+<link>https://housecast.housemoonsprinter.co.uk/</link>
+<itunes:episode>1</itunes:episode>
+<itunes:season>5</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>Corona I: The Beginning of the End</title>
+<enclosure url="https://housecast.housemoonsprinter.co.uk/episodes/corona-housecast.mp4" length="12900000" type="video/mp4"/>
+<pubDate>Mon, 03 Jan 2022 13:00:00 GMT</pubDate>
+<description>The gang return after a two month hiatus to reak havoc, but they instead get an unexpected suprise...</description>
+<itunes:duration>240</itunes:duration>
+<link>https://housecast.housemoonsprinter.co.uk/</link>
+<itunes:episode>9</itunes:episode>
+<itunes:season>3</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<title>WGEmail: rugby</title>
+<enclosure url="https://housecast.housemoonsprinter.co.uk/episodes/rugby-housecast.mp4" length="3580000" type="video/mp4"/>
+<pubDate>Mon, 03 Jan 2022 13:00:00 GMT</pubDate>
+<description>Weak Good gets mad at those blommin' Rugby shouters, Tubs and Coach D...</description>
+<itunes:duration>72</itunes:duration>
+<link>https://housecast.housemoonsprinter.co.uk/</link>
+<itunes:episode>7</itunes:episode>
+<itunes:season>3</itunes:season>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
