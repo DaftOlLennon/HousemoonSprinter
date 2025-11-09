@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Housemoon Sprinter Housecast</title>
+<link>https://housemoonsprinter.netlify.com/housecast/</link>
+<language>en-uk</language>
+<copyright>© 2019 Housemoon Sprinter</copyright>
+<itunes:subtitle>Housemoon Sprinter</itunes:subtitle>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>
+Housemoon Sprinter Housecast: "We brodcast old cartoons that you might of seen!"
+</itunes:summary>
+<description>
+Housemoon Sprinter Housecast: "We brodcast old cartoons that you might of seen!"
+</description>
+<itunes:owner>
+<itunes:name>Roan Hemmings</itunes:name>
+<itunes:email>rorohemmings@aol.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://housemoonsprinter.netlify.com/housecast/hc_podcastimg.png"/>
+<itunes:category text="Comedy"/>
+<itunes:explicit>No</itunes:explicit>
+<item>
+<title>Brexitoween</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Happy CrappyCommentaryoween!</itunes:summary>
+<itunes:subtitle>Happy CrappyCommentaryoween!</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/ween19.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/ween19.mp4
+</guid>
+<pubDate>Fri, 01 Nov 2019 14:08:00 GMT</pubDate>
+<itunes:duration>2:44</itunes:duration>
+<itunes:keywords>
+Housemoon, wgemail
+</itunes:keywords>
+</item>
+<item>
+<title>DVD Advertisement</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>The first DVD gets its own advertisement.</itunes:summary>
+<itunes:subtitle>The first DVD gets its own advertisement.</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/dvdadvertise.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/dvdadvertise.mp4
+</guid>
+<pubDate>Mon, 29 Jul 2019 19:46:00 GMT</pubDate>
+<itunes:duration>2:11</itunes:duration>
+<itunes:keywords>
+Housemoon, wgemail
+</itunes:keywords>
+</item>
+<item>
+<title>Introducing the Meatles!</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>The Meatles release thier first album together!</itunes:summary>
+<itunes:subtitle>The Meatles release thier first album together!</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/meatles.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/meatles.mp4
+</guid>
+<pubDate>Mon, 29 Jul 2019 19:46:00 GMT</pubDate>
+<itunes:duration>37:45</itunes:duration>
+<itunes:keywords>
+Housemoon, wgemail
+</itunes:keywords>
+</item>
+<item>
+<title>Wgemail 3: Relatives</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Weak Good meets his err... "great" relative...</itunes:summary>
+<itunes:subtitle>Weak Good meets his err... "great" relative...</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/wgemail3.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/wgemail3.mp4
+</guid>
+<pubDate>Sat, 20 Jul 2019 22:57:00 GMT</pubDate>
+<itunes:duration>1:25</itunes:duration>
+<itunes:keywords>
+Housemoon, wgemail
+</itunes:keywords>
+</item>
+<item>
+<title>Wgemail 2: Weather</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Weak Good goes outside to find out the weather is great!</itunes:summary>
+<itunes:subtitle>Weak Good goes outside to find out the weather is great!</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/wgemail2.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/wgemail2.mp4
+</guid>
+<pubDate>Sun, 21 Jul 2019 09:52:00 GMT</pubDate>
+<itunes:duration>1:03</itunes:duration>
+<itunes:keywords>
+Housemoon, wgemail
+</itunes:keywords>
+</item>
+<item>
+<title>Wgemail 1: Foodage</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Weak Good tells us what his favorite food is.</itunes:summary>
+<itunes:subtitle>Weak Good tells us what his favorite food is.</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/wgemail1.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/wgemail1.mp4
+</guid>
+<pubDate>Sun, 21 Jul 2019 09:54:00 GMT</pubDate>
+<itunes:duration>0:30</itunes:duration>
+<itunes:keywords>
+Housemoon, wgemail
+</itunes:keywords>
+</item>
+<item>
+<title>Mac vs. PC</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Weak Good and Housemoon tries to tell us the benefits of owning a Mac.</itunes:summary>
+<itunes:subtitle>Weak Good and Housemoon tries tell us the benefits of owning a Mac.</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/macvspc.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/macvspc.mp4
+</guid>
+<pubDate>Sun, 22 Jul 2019 16:33:00 GMT</pubDate>
+<itunes:duration>1:08</itunes:duration>
+<itunes:keywords>
+Housemoon, cartoon
+</itunes:keywords>
+</item>
+<item>
+<title>New Years 2019</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Happy LATE New Years! Housemoon and friends celebrate New Years!</itunes:summary>
+<itunes:subtitle>Happy LATE New Years! Housemoon and friends celebrate New Years!</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/newyears2019.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/newyears2019.mp4
+</guid>
+<pubDate>Sun, 22 Jul 2019 16:42:00 GMT</pubDate>
+<itunes:duration>1:08</itunes:duration>
+<itunes:keywords>
+Housemoon, cartoon
+</itunes:keywords>
+</item>
+<item>
+<title>National Pi Day</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>It's National PIE Day! Eeehhh!</itunes:summary>
+<itunes:subtitle>It's National PIE Day! Eeehhh!</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/nationalpiday.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/nationalpiday.mp4
+</guid>
+<pubDate>Sun, 22 Jul 2019 16:43:00 GMT</pubDate>
+<itunes:duration>0:57</itunes:duration>
+<itunes:keywords>
+Housemoon, cartoon
+</itunes:keywords>
+</item>
+<item>
+<title>Mother's Day</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Happy Mother's Day! Weak Happy gives his thanks.</itunes:summary>
+<itunes:subtitle>Happy Mother's Day! Weak Happy gives his thanks.</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/mothersday.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/mothersday.mp4
+</guid>
+<pubDate>Sun, 22 Jul 2019 16:45:00 GMT</pubDate>
+<itunes:duration>1:18</itunes:duration>
+<itunes:keywords>
+Housemoon, cartoon
+</itunes:keywords>
+</item>
+<item>
+<title>Housemoon Reviews: Empire</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Empire: Not exactly the best movie, Housemoon kind of tells you why.</itunes:summary>
+<itunes:subtitle>Empire: Not exactly the best movie, Housemoon kind of tells you why.</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/housemoonreviews1.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/housemoonreviews1.mp4
+</guid>
+<pubDate>Sun, 22 Jul 2019 16:47:00 GMT</pubDate>
+<itunes:duration>1:51</itunes:duration>
+<itunes:keywords>
+Housemoon, review
+</itunes:keywords>
+</item>
+<item>
+<title>Shutting Down</title>
+<itunes:author>Housemoon Sprinter</itunes:author>
+<itunes:summary>Housemoon shuts down. APRIL FOOLS!</itunes:summary>
+<itunes:subtitle>Housemoon shuts down. APRIL FOOLS!</itunes:subtitle>
+<enclosure url="https://housemoonsprinter.netlify.com/housecast/aprilfools2019.mp4" type="video/mp4"/>
+<guid>
+https://housemoonsprinter.netlify.com/housecast/aprilfools2019.mp4
+</guid>
+<pubDate>Sun, 22 Jul 2019 16:50:00 GMT</pubDate>
+<itunes:duration>0:52</itunes:duration>
+<itunes:keywords>
+Housemoon, cartoon
+</itunes:keywords>
+</item>
+</channel>
+</rss>
